@@ -2,4 +2,8 @@
 
 This is a complete Git Course
 
-# This is from Bug branch
+# This is from Bug Branch
+
+# This is change from Feature branch
+
+# This is another change from Feature2 branch
