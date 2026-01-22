@@ -9,3 +9,5 @@ This is a complete Git Course
 # This is another change from Feature2 branch
 
 # This is commit 1
+
+# This is commit 2
